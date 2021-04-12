@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(10, 10, 10);
+  color: rgb(200, 25, 25);
+  margin: 0px;
+  padding: 0px;
+}
+
+.home-title {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+.header {
+  margin: 0px;
+  padding: 2.5px;
+  list-style: none;
+  background-color: rgb(25, 25, 25);
+  display: flex;
+}
+
+.header-content {
+  font-size: 22px;
+  margin: 0px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 1;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: rgb(24, 24, 24);
+  text-align: center;
+}
+
+.content-centered {
+  min-height: 1em;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.content-centered-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-link {
+  text-decoration: none;
+  color: rgb(200, 200, 200);
+}
+
+.page-title {
+  text-align: center;
+  font-size: 3em;
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+.page-subtitle {
+  text-align: center;
+  font-size: 2em;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.jams {
+  list-style: none;
+  color: rgb(200, 200, 200);
+  margin: 10px;
+  padding: 0px;
+}
+
+.jam {
+  background-color: rgb(25, 25, 25);
+  border-radius: 10px;
+  padding: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.jam-title {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+.jam-content {
+  list-style: none;
+  padding: 5px;
+  margin: 0px;
+}
+
+.requirements {
+  margin: 2.5px;
+  padding-left: 5px;
+}
+
+.content-requirements {
+  padding: 0px;
+  margin: 0px;
+  padding-left: 20px;
+}
